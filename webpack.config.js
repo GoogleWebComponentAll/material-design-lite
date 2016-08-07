@@ -79,6 +79,7 @@ module.exports = [{
     'mdl-button': path.resolve('./packages/mdl-button/mdl-button.scss'),
     'mdl-checkbox': path.resolve('./packages/mdl-checkbox/mdl-checkbox.scss'),
     'mdl-ripple': path.resolve('./packages/mdl-ripple/mdl-ripple.scss'),
+    'mdl-toolbar': path.resolve('./packages/mdl-toolbar/mdl-toolbar.scss'),
     'mdl-typography': path.resolve('./packages/mdl-typography/mdl-typography.scss')
   },
   output: {
